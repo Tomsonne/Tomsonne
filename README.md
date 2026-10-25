@@ -146,8 +146,6 @@ Projet collectif d’apprentissage du trading avec données de marché, ordres s
 | [**_printf**](https://github.com/Tomsonne/holbertonschool-printf) | Réimplémenter en binôme une version simplifiée de `printf`. | C, fonctions variadiques |
 | [**Sorting Algorithms**](https://github.com/Tomsonne/holbertonschool-sorting_algorithms) | Implémenter et étudier plusieurs algorithmes de tri. | C, complexité algorithmique |
 
-Autre dépôt autour de mes travaux de trading : [**RiseUp**](https://github.com/Tomsonne/RiseUp).
-
 > Les projets de trading présentés ici relèvent de la simulation et de la recherche. Le laboratoire de backtests n’exécute pas d’ordres réels.
 
 ---
